@@ -14,7 +14,7 @@ An agent-driven resume workbench that treats a career as a conversation instead 
 
 A cross-platform desktop timer in Go/Gio inspired by the workflow I've depended on for years.
 
-## Things I seem to believe
+## Things I keep rediscovering
 
 - Production is the last mile.
 - Build studies in miniature before arguing about architecture.
