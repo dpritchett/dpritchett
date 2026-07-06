@@ -44,7 +44,7 @@ I also wrote *Build Chatbot Interactions* for Pragmatic Bookshelf because I've a
 
 Most of my public repositories are experiments, utilities, or ideas that escaped into the real world because I got tired of solving the same problem twice.
 
-Don't expect a perfectly curated portfolio. Expect lots of prototypes, tools, and evidence of how I think.
+Don't expect a polished showcase. Expect experiments, tools, prototypes, and evidence of how I think.
 
 ## Elsewhere
 
