@@ -2,7 +2,7 @@
 
 I build tools that eliminate incidental complexity.
 
-Most of my work lives at the boundary between software engineering and developer experience: replacing recurring engineering pain with boring, repeatable systems that shorten feedback loops, reduce uncertainty, and make the right thing the easy thing.
+Most of my work lives at the boundary between software engineering, developer experience, and internal tooling: replacing recurring engineering pain with boring, repeatable systems that shorten feedback loops, reduce uncertainty, and make the right thing the easy thing.
 
 Sometimes that looks like backend services. Sometimes it's Kubernetes platforms, deployment pipelines, AI-assisted workflows, internal developer tools, or a pile of tiny utilities. The technologies change; the goal rarely does.
 
