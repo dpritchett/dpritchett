@@ -8,7 +8,7 @@ Sometimes that looks like backend services. Sometimes it's Kubernetes platforms,
 
 ## What I'm building
 
-### SeeSeeVee
+### SeeVee
 
 A source-backed career knowledge system that treats resumes, interview preparation, and hiring artifacts as projections of a richer body of evidence instead of hand-edited documents.
 
