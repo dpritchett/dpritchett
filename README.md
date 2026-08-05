@@ -8,13 +8,19 @@ Sometimes that looks like backend services. Sometimes it's Kubernetes platforms,
 
 ## What I'm building
 
+Three angles on the same problem: what should the interface look like between a person and an agent doing work on their behalf.
+
+### gitlab-kiosk
+
+A read-only GitLab CLI for coding agents. GET-only HTTP, public-only visibility checks, pinned host, no credentials by default. Handing an agent raw credentials technically works, but then you're watching every call it makes. These constraints are what let you hand off a task and walk away. Go, Apache-2.0, open source at [github.com/radiusmethod/gitlab-kiosk](http://github.com/radiusmethod/gitlab-kiosk).
+
 ### SeeVee
 
 A source-backed career knowledge system that treats resumes, interview preparation, and hiring artifacts as projections of a richer body of evidence instead of hand-edited documents.
 
-### Timerbox
+### Infobox
 
-A cross-platform desktop timer written in Go and Gio, inspired by the workflow I've depended on for years.
+A local, scriptable soundboard and digital billboard for active agent work. One Go and Gio binary that owns its state in memory, appends signals to a JSONL log, and accepts producers over a small HTTP API. The running process serves its own schema, so anything that wants to notify me can ask what shape a signal takes.
 
 ## Engineering philosophy
 
