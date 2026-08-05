@@ -48,7 +48,7 @@ A few stops along the way:
 - CrowdStrike
 - Gremlin
 
-I also wrote *Build Chatbot Interactions* for Pragmatic Bookshelf because I've always been interested in helping engineers build better tools for themselves.
+I also wrote [*Build Chatbot Interactions*](https://pragprog.com/titles/dpchat/build-chatbot-interactions/) for Pragmatic Bookshelf because I've always been interested in helping engineers build better tools for themselves.
 
 ## Open source
 
